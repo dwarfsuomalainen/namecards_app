@@ -1,5 +1,13 @@
 # Assignment "Namecards App" 
 
+Web application displaying a main page with address cards and providing a full personal information on separete address card.
+
+
+<img width="1683" alt="1" src="https://user-images.githubusercontent.com/73884598/194262096-5d0cb1d0-aaed-49c1-b874-b912dfacc47a.png">
+<img width="399" alt="2" src="https://user-images.githubusercontent.com/73884598/194262091-46e37eb8-9b5c-482c-9561-953db4755abc.png">
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
